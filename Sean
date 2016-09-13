@@ -1,0 +1,12 @@
+// Sales_Prediction.cpp
+
+#include <iostream>
+using namespace std;
+
+int main()
+{
+	float perNum = 0.58, salesNum = 8600000, total;
+	total = (perNum / salesNum);
+	cout << total;
+	return 0;
+}
